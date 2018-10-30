@@ -238,10 +238,6 @@ section .subtitle-half h5 {
     color: #ffffff;
 }
 
-.z_index{
-    z-index: 1000;
-}
-
 .no-padding {
     padding: 0 !important;
     margin:0 !important;
