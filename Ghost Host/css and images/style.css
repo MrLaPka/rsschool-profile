@@ -532,28 +532,6 @@ background: #000;
     margin-bottom:50px;
 }
 
-.main_slider_area .owl-theme .owl-dots {
-    text-align: center;
-    -webkit-tap-highlight-color: transparent;
-    margin-top: 160px;
-}
-.main_slider_area .owl-theme .owl-nav [class*='owl-'] {
-    color: black;
-    background: transparent;
-}
-.main_slider_area .owl-theme .owl-nav [class*='owl-']:hover {
-    background: transparent;
-    color: white;
-    text-decoration: none;
-}
-.main_slider_area .owl-theme .owl-nav [class*='owl-']:hover {
-    background: transparent;
-    color: white;
-    text-decoration: none;
-}
-
-
-
 .register{
     width:100%;
     overflow: hidden;
