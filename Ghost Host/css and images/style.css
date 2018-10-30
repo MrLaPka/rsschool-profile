@@ -457,19 +457,6 @@ h1 span {
     font-weight: 400;
 }
 
-.menu-scroll {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    position: fixed;
-    top: 0; 
-	left: 0; 
-	right: 0; 
-	z-index: 300;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color: #3d3325;
-	
-}
 
 .main_menu_bg{
 	margin-top:0px;
