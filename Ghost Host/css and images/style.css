@@ -970,28 +970,3 @@ i:hover{
     font-size: 13px;
     display: block;
 }
-
-.coppyright{
-	overflow:hidden;
-	display:block;
-	width:100%;
-	background:#3d3325;
-	text-align:center;
-}
-.coppyright p{
-	display:inline-block;
-	color:#fff;
-	margin:20px 0px;
-}
-.coppyright p i{
-	display:inline-block;
-	color:#ff0000;
-	padding:0px 10px;
-}
-.coppyright p a{
-	display:inline-block;
-	color:#ff0000;
-	font-weight:700;
-	padding:0px 10px;
-	font-size:18px;
-}
