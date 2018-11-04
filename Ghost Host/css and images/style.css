@@ -1,4 +1,5 @@
 
+
 html,
 body {
     background-color: #fff;
@@ -141,7 +142,6 @@ p:last-child {
     padding-bottom: 80px;
 }
 
-
 .overlay {
     background-color: rgba(0, 0, 0, 0.60);
     width: 100%;
@@ -164,6 +164,7 @@ p:last-child {
     padding-bottom: 100px;
     color: #ffffff;
 }
+
 
 .no-padding {
     padding: 0 !important;
@@ -273,19 +274,14 @@ p:last-child {
 .padding-eighty {
     padding: 40px 0;
 }
-h1 span {
-    color: #f56363;
-    font-weight: 400;
-}
+
 
 
 .main_menu_bg{
-	margin-top:0px;
+    margin-top:0px;
+    background: #000;
 }
 
-.main_menu_bg:hover{
-background: #000;
-}
 
 .main_menu_bg .navbar-default {
     background-color: transparent; 
@@ -316,7 +312,6 @@ background: #000;
     padding-bottom: 33px;
 	
 }
-
 
 
 .home{
@@ -355,7 +350,7 @@ background: #000;
 .single_register a{
     color: #fff;
     font-size: 1.375rem;
-    font-family: 'lotobold';
+    font-family: 'latobold';
     text-transform: uppercase;
     padding: 25px 0px;
     display: inline-block;
@@ -448,10 +443,12 @@ background: #000;
     border-radius: 50%;
 }
 .sercelist .single_dotcom_serce ul.list-inline.no-border li:nth-child(1):after {
-    display:none;
+    display: none;
 }
 
-
+.border_for_select{
+    border: none;
+}
 
 
 .pricingtop{
@@ -520,8 +517,12 @@ background: #000;
     background: #fff;
 }
 
+.single_pricing:hover{
+    border:2px solid #0faff1;
+}
+
 .pricing_head h3{
-    text-transform:uppercase;
+    text-transform: uppercase;
     color:#222222;
     font-size:14px;
     font-family:'titillium_webbold';
