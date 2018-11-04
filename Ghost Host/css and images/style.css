@@ -318,6 +318,7 @@ background: #000;
 }
 
 
+
 .home{
     background: url(homebg.jpg) no-repeat 100% 100%;
     text-align: center;
@@ -359,6 +360,14 @@ background: #000;
     padding: 25px 0px;
     display: inline-block;
     transform: skewX(20deg);
+}
+
+.single_register:hover{
+    background: #63f600;  
+}
+
+.transition_for_register{
+    transition: 1.5s;  
 }
 
 .domainsearce{
